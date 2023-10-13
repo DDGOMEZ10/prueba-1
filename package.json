@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки\r дополнительных возможностей [обратись к документации](https://parceljs.org/).",
-  "homepage": "https://DDGOMEZ10.github.io/https://github.com/DDGOMEZ10/prueba-1",
+  "homepage": "https://DDGOMEZ10.github.io/prueba-1",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /https://github.com/DDGOMEZ10/prueba-1/"
+    "build": "parcel build src/*.html --public-url/prueba-1/"
   },
   "repository": {
     "type": "git",
